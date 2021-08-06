@@ -10,7 +10,7 @@ import threading
  
 from sqlalchemy import create_engine
 from sqlalchemy import Column, Integer
-from sqlalchemy import declarative_base
+from sqlalchemy.ext.declarative import declarative_base
 
 from sqlalchemy.orm import sessionmaker, scoped_session
 
