@@ -2,16 +2,16 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Asuran Hotstar Download Bot!
+This is a simple Hotstar Download Bot!
 
 <b>Please send me any Free Hotstar link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @SerialCoIng
+Support Group : @VCMusicGroup
 """
 
-    HELP_USER = """Hai I'am a Hotstar Downloader bot..
+    HELP_USER = """Hello I'am a Hotstar Downloader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -21,7 +21,7 @@ Support Group : @SerialCoIng
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @SerialCoIn
+Support Group : @VCMusicGroup
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -29,13 +29,13 @@ Support Group : @SerialCoIn
 Send your custum thumbnail if required.
 You can use /deletethumbnail to delete the auto-generated thumbnail."""
     
-    SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
+    SET_CUSTOM_USERNAME_PASSWORD = """😋 If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>Nothing Is Here!!<b> 😢"
     
-    DOWNLOAD_START = "Trying to download your file..."
+    DOWNLOAD_START = "<b>Trying to download your Url Video..<b>"
     
     UPLOAD_START = "Uploading now.."
     
@@ -49,6 +49,6 @@ URL | newfilename | username | password"""
 
     CUSTOM_CAPTION_UL_FILE = " "
 
-    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    SLOW_URL_DECED = "<b>Biro that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file<b>."
 
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "😢ERROR...\n<b>YouTubeDL</b> said: {}"
