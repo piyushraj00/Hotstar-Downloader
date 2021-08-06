@@ -3,10 +3,11 @@ import os
 if bool(os.environ.get("WEBHOOK", False)):
     from sample_config import Config
 else:
+    from sqlalchemy.ext.declarative import
     from config import Config
 
 import threading
-from sqlalchemy.ext.declarative import 
+ 
 from sqlalchemy import create_engine
 from sqlalchemy import Column, Integer
 
