@@ -12,7 +12,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/AsuranJ/Hotstar-Downloader/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/piyushraj00/Hotstar-Downloader/)
 
 
 ### Commands
